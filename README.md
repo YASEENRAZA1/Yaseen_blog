@@ -3,11 +3,13 @@
 Hi! Welcome to my official blog repository. 
 
 ## 📝 What I Write About
-* **Travelling ✈️:** Exploring new places, travel guides, tips, and personal travel experiences.
-* **Motivation 💪:** Inspiring thoughts, self-improvement tips, and motivational insights to help you grow.
+* **Travelling ✈️:** Exploring new places, travel guides, budget tips, and personal travel experiences.
+* **Motivation 💪:** Inspiring thoughts, self-improvement tips, daily habits, and mindsets to help you reach your goals.
+* **Studying 📚:** Effective study techniques, focus tips, productivity hacks, and learning strategies for students.
 
-## 🎯 Goal
-This blog is dedicated to sharing my passion for exploring the world and inspiring people to chase their goals and live fully.
+## 🎯 Mission & Goal
+This blog is dedicated to inspiring people to explore the world, stay motivated, and achieve academic and personal success.
 
 ---
 *Thanks for visiting! Stay tuned for more updates.*
+
